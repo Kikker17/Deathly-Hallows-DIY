@@ -1,0 +1,7 @@
+C:\Users\epist\Desktop\DHDIY\Deathly-Hallows-DIY\Deathly-Hallows-DIY\bin\Release\Deathly-Hallows-DIY.exe
+C:\Users\epist\Desktop\DHDIY\Deathly-Hallows-DIY\Deathly-Hallows-DIY\bin\Release\Deathly-Hallows-DIY.pdb
+C:\Users\epist\Desktop\DHDIY\Deathly-Hallows-DIY\Deathly-Hallows-DIY\obj\x86\Release\Deathly_Hallows_DIY.Form1.resources
+C:\Users\epist\Desktop\DHDIY\Deathly-Hallows-DIY\Deathly-Hallows-DIY\obj\x86\Release\Deathly_Hallows_DIY.Properties.Resources.resources
+C:\Users\epist\Desktop\DHDIY\Deathly-Hallows-DIY\Deathly-Hallows-DIY\obj\x86\Release\Deathly-Hallows-DIY.csproj.GenerateResource.Cache
+C:\Users\epist\Desktop\DHDIY\Deathly-Hallows-DIY\Deathly-Hallows-DIY\obj\x86\Release\Deathly-Hallows-DIY.exe
+C:\Users\epist\Desktop\DHDIY\Deathly-Hallows-DIY\Deathly-Hallows-DIY\obj\x86\Release\Deathly-Hallows-DIY.pdb
